@@ -1,2 +1,1 @@
-#!/bin/bash
-pwd
+More shell basics with scripts
